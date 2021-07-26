@@ -1532,3 +1532,239 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.26-09.39.06:544][370]LogPlayLevel: Display: Destroying online subsystem :Context_15
 [2021.07.26-09.39.06:556][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2021.07.26-09.46.15:391][725]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.07.26-09.51.52:364][796]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.26-09.51.52:372][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.26-09.51.52:372][796]PIE: New page: PIE session: ClassExercise-BlankLevel (27 Jul 2021, 1:51:52 am)
+[2021.07.26-09.51.52:396][796]LogPlayLevel: Creating play world package: /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.51.52:408][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011855s)
+[2021.07.26-09.51.52:409][796]LogAIModule: Creating AISystem for world ClassExercise-BlankLevel
+[2021.07.26-09.51.52:409][796]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2021.07.26-09.51.52:410][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel to /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel (0.013588s)
+[2021.07.26-09.51.52:458][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.07.26-09.51.52:459][796]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.07.26-09.51.52:459][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.26-09.51.52:459][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.26-09.51.52:459][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.26-09.51.52:459][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.26-09.51.52:459][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.26-09.51.52:459][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.26-09.51.52:459][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.26-09.51.52:459][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.26-09.51.52:460][796]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.26-09.51.52:460][796]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.26-09.51.52:463][796]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.26-09.51.52:463][796]LogAudioMixer: Display: 1: FrontRight
+[2021.07.26-09.51.52:474][796]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.07.26-09.51.52:474][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.26-09.51.52:474][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.26-09.51.52:475][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.26-09.51.52:475][796]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.26-09.51.52:475][796]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.26-09.51.52:475][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.26-09.51.52:490][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.26-09.51.52:490][796]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.26-09.51.52:490][796]LogInit: FAudioDevice initialized.
+[2021.07.26-09.51.52:490][796]LogAudio: Display: Audio Device (ID: 8) registered with world 'ClassExercise-BlankLevel'.
+[2021.07.26-09.51.52:503][796]LogLoad: Game class is 'DPGameMode_FPS_C'
+[2021.07.26-09.51.52:541][796]LogWorld: Bringing World /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel up for play (max tick rate 0) at 2021.07.26-17.51.52
+[2021.07.26-09.51.52:541][796]LogWorld: Bringing up level for play took: 0.000690
+[2021.07.26-09.51.52:541][796]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.07.26-09.51.52:548][796]PIE: Server logged in
+[2021.07.26-09.51.52:550][796]PIE: Play in editor total start time 0.178 seconds.
+[2021.07.26-09.52.39:526][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.52.39:526][400]LogWorld: BeginTearingDown for /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.52.39:527][400]LogWorld: UWorld::CleanupWorld for ClassExercise-BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.52.39:527][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.52.39:535][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.26-09.52.39:554][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.52.39:570][400]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-09.52.39:571][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.52.39:572][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.52.39:588][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.52.39:591][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.07.26-09.52.39:629][401]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.07.26-09.52.39:642][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.07.26-09.52.44:886][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.07.26-09.52.47:748][986]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-09.53.00:623][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.07.26-09.53.00:659][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.07.26-09.53.00:693][124]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/ClassExercise-BlankLevel56995C64411B6D4569C6B386F5C25E54.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/ClassExercise-BlankLevel.umap'
+[2021.07.26-09.53.00:732][124]LogFileHelpers: Saving map 'ClassExercise-BlankLevel' took 0.084
+[2021.07.26-09.53.00:744][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.07.26-09.53.00:757][124]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/Jean5701F2C34604D847FFFF7989297F2AD6.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Jean/Jean.umap'
+[2021.07.26-09.53.00:757][124]LogFileHelpers: Saving map 'Jean' took 0.025
+[2021.07.26-09.53.00:764][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.07.26-09.53.00:775][124]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/Cantius1F07179B414B248C7029E983E694E043.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Cantius.umap'
+[2021.07.26-09.53.00:777][124]LogFileHelpers: Saving map 'Cantius' took 0.019
+[2021.07.26-09.53.00:783][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.07.26-09.53.00:819][124]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/XurongF8A85E7047A867FBEA4DEE9D8386E1F5.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Xurong/Xurong.umap'
+[2021.07.26-09.53.00:820][124]LogFileHelpers: Saving map 'Xurong' took 0.043
+[2021.07.26-09.53.00:833][124]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.26-09.53.00:833][124]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/Jean/Jean.Jean
+[2021.07.26-09.53.00:833][124]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel
+[2021.07.26-09.53.00:833][124]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/Xurong/Xurong.Xurong
+[2021.07.26-09.53.00:833][124]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/Cantius/Cantius.Cantius
+[2021.07.26-09.53.03:812][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.07.26-09.53.03:832][449]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel
+[2021.07.26-09.53.03:832][449]LightingResults: New page: Lighting Build
+[2021.07.26-09.53.03:832][449]LoadErrors: New page: Loading map: ClassExercise-BlankLevel.umap
+[2021.07.26-09.53.03:866][449]LogWorld: UWorld::CleanupWorld for ClassExercise-BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.53.03:866][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.53.03:866][449]LogWorld: UWorld::CleanupWorld for Jean, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.53.03:866][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.53.03:866][449]LogWorld: UWorld::CleanupWorld for Cantius, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.53.03:866][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.53.03:866][449]LogWorld: UWorld::CleanupWorld for Xurong, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.53.03:866][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.53.03:867][449]MapCheck: New page: Map Check
+[2021.07.26-09.53.03:867][449]LightingResults: New page: Lighting Build
+[2021.07.26-09.53.03:872][449]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-09.53.03:876][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.07.26-09.53.03:885][449]LogAudio: Display: Audio Device (ID: 1) registered with world 'ClassExercise-BlankLevel'.
+[2021.07.26-09.53.03:886][449]LogAIModule: Creating AISystem for world ClassExercise-BlankLevel
+[2021.07.26-09.53.03:948][449]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Assignments/Submissions/Xurong/Xurong) is flushing async loading
+[2021.07.26-09.53.03:948][449]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.07.26-09.53.03:976][449]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Assignments/Submissions/Cantius/Cantius) is flushing async loading
+[2021.07.26-09.53.03:980][449]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Assignments/Submissions/Jean/Jean) is flushing async loading
+[2021.07.26-09.53.03:994][449]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-09.53.04:006][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.07.26-09.53.04:012][449]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-09.53.04:013][449]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.2ms to complete.
+[2021.07.26-09.53.04:013][449]LogFileHelpers: Loading map 'ClassExercise-BlankLevel' took 0.181
+[2021.07.26-09.53.04:032][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.07.26-09.53.58:226][472]LogContentBrowser: Deferred new asset file creation: ClassExercise-BlankLevel1
+[2021.07.26-09.53.58:240][472]LogContentBrowser: Creating deferred item: ClassExercise-BlankLevel1
+[2021.07.26-09.54.02:395][970]LogContentBrowser: Attempting asset rename: ClassExercise-BlankLevel1 -> PersistentLevel
+[2021.07.26-09.54.02:417][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.07.26-09.54.02:430][970]LogContentBrowser: End creating deferred item ClassExercise-BlankLevel1
+[2021.07.26-09.54.03:837][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.07.26-09.54.05:533][137]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-09.54.05:569][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.07.26-09.54.05:584][137]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/ClassExercise-BlankLevelE3B2C4C84AC643EF5E4B1282A9CE2EEA.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/ClassExercise-BlankLevel.umap'
+[2021.07.26-09.54.05:592][137]LogFileHelpers: Saving map 'ClassExercise-BlankLevel' took 0.029
+[2021.07.26-09.54.05:601][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.07.26-09.54.05:615][137]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/PersistentLevelF12CDBB4482F9CC58F79D89B9131635E.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/PersistentLevel.umap'
+[2021.07.26-09.54.05:617][137]LogFileHelpers: Saving map 'PersistentLevel' took 0.025
+[2021.07.26-09.54.05:637][137]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignments/Submissions/PersistentLevel.PersistentLevel
+[2021.07.26-09.54.05:637][137]Cmd: MAP LOAD FILE="D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/PersistentLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-09.54.05:637][137]LightingResults: New page: Lighting Build
+[2021.07.26-09.54.05:637][137]LoadErrors: New page: Loading map: PersistentLevel.umap
+[2021.07.26-09.54.05:664][137]LogWorld: UWorld::CleanupWorld for ClassExercise-BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.54.05:664][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.54.05:664][137]LogWorld: UWorld::CleanupWorld for Xurong, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.54.05:664][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.54.05:664][137]LogWorld: UWorld::CleanupWorld for Cantius, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.54.05:664][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.54.05:665][137]LogWorld: UWorld::CleanupWorld for Jean, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.54.05:665][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.54.05:665][137]MapCheck: New page: Map Check
+[2021.07.26-09.54.05:665][137]LightingResults: New page: Lighting Build
+[2021.07.26-09.54.05:671][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-09.54.05:674][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.07.26-09.54.05:675][137]LogAudio: Display: Audio Device (ID: 1) registered with world 'PersistentLevel'.
+[2021.07.26-09.54.05:676][137]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Assignments/Submissions/Jean/Jean) is flushing async loading
+[2021.07.26-09.54.05:676][137]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.07.26-09.54.05:681][137]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Assignments/Submissions/Cantius/Cantius) is flushing async loading
+[2021.07.26-09.54.05:685][137]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Assignments/Submissions/Xurong/Xurong) is flushing async loading
+[2021.07.26-09.54.05:697][137]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-09.54.05:697][137]LogAIModule: Creating AISystem for world PersistentLevel
+[2021.07.26-09.54.05:706][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.07.26-09.54.05:713][137]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-09.54.05:713][137]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.202ms to complete.
+[2021.07.26-09.54.05:713][137]LogFileHelpers: Loading map 'PersistentLevel' took 0.076
+[2021.07.26-09.54.05:729][137]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.26-09.54.05:729][137]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/PersistentLevel.PersistentLevel
+[2021.07.26-09.54.05:729][137]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Symbol_0A)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Symbol_0B)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Symbol_1B)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Symbol_1A)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Door1)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Door0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Symbol_0A)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Symbol_0B)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Symbol_1B)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Symbol_1A)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Door1)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Door0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Cantius/Cantius.Cantius:PersistentLevel.Wall_h400w200_Win_h200w150_B2.StaticMeshComponent0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Cantius/Cantius.Cantius:PersistentLevel.Wall_Door_400x400_76.StaticMeshComponent0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B_8.StaticMeshComponent0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B3.StaticMeshComponent0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Statue04_b_col_45.StaticMeshComponent0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B4_60.StaticMeshComponent0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B5.StaticMeshComponent0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B6.StaticMeshComponent0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B7.StaticMeshComponent0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B8.StaticMeshComponent0)
+[2021.07.26-09.54.05:789][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.DemoRoomCrateSmlA_67.StaticMeshComponent0)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.DemoRoomCrateSmlA2_70.StaticMeshComponent0)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Symbol_0A)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Symbol_0B)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Symbol_1B)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Symbol_1A)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Door1)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Door0)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Symbol_0A)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Symbol_0B)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Symbol_1B)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Symbol_1A)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Door1)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Door0)
+[2021.07.26-09.54.05:790][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B9.StaticMeshComponent0)
+[2021.07.26-09.54.05:796][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.07.26-09.54.08:057][398]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Cantius/Cantius.Cantius:PersistentLevel.Wall_h400w200_Win_h200w150_B2.StaticMeshComponent0)
+[2021.07.26-09.54.08:057][398]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Cantius/Cantius.Cantius:PersistentLevel.Wall_Door_400x400_76.StaticMeshComponent0)
+[2021.07.26-09.54.08:392][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Basic_Mesh)
+[2021.07.26-09.54.08:392][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Door0)
+[2021.07.26-09.54.08:392][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Symbol_0A)
+[2021.07.26-09.54.08:392][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Symbol_0B)
+[2021.07.26-09.54.08:392][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Door1)
+[2021.07.26-09.54.08:393][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Symbol_1B)
+[2021.07.26-09.54.08:393][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InteractableObject_Door_v5_6.Symbol_1A)
+[2021.07.26-09.54.08:393][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Basic_Mesh)
+[2021.07.26-09.54.08:393][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Door0)
+[2021.07.26-09.54.08:393][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Symbol_0A)
+[2021.07.26-09.54.08:394][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Symbol_0B)
+[2021.07.26-09.54.08:394][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Door1)
+[2021.07.26-09.54.08:394][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Symbol_1B)
+[2021.07.26-09.54.08:394][435]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Jean/Jean.Jean:PersistentLevel.InterObj_Door3_2.Symbol_1A)
+[2021.07.26-09.54.08:666][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B_8.StaticMeshComponent0)
+[2021.07.26-09.54.08:666][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B3.StaticMeshComponent0)
+[2021.07.26-09.54.08:668][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Statue04_b_col_45.StaticMeshComponent0)
+[2021.07.26-09.54.08:668][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B4_60.StaticMeshComponent0)
+[2021.07.26-09.54.08:669][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B5.StaticMeshComponent0)
+[2021.07.26-09.54.08:669][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B6.StaticMeshComponent0)
+[2021.07.26-09.54.08:669][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B7.StaticMeshComponent0)
+[2021.07.26-09.54.08:669][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B8.StaticMeshComponent0)
+[2021.07.26-09.54.08:671][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.DemoRoomCrateSmlA_67.StaticMeshComponent0)
+[2021.07.26-09.54.08:672][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.DemoRoomCrateSmlA2_70.StaticMeshComponent0)
+[2021.07.26-09.54.08:673][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Basic_Mesh)
+[2021.07.26-09.54.08:674][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Door0)
+[2021.07.26-09.54.08:674][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Symbol_0A)
+[2021.07.26-09.54.08:674][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Symbol_0B)
+[2021.07.26-09.54.08:674][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Door1)
+[2021.07.26-09.54.08:674][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Symbol_1B)
+[2021.07.26-09.54.08:674][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v3_2.Symbol_1A)
+[2021.07.26-09.54.08:675][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Basic_Mesh)
+[2021.07.26-09.54.08:675][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Door0)
+[2021.07.26-09.54.08:675][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Symbol_0A)
+[2021.07.26-09.54.08:675][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Symbol_0B)
+[2021.07.26-09.54.08:675][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Door1)
+[2021.07.26-09.54.08:675][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Symbol_1B)
+[2021.07.26-09.54.08:675][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.InteractableObject_Door_v4.Symbol_1A)
+[2021.07.26-09.54.08:676][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Assignments/Submissions/Xurong/Xurong.Xurong:PersistentLevel.Wall_h400w200_Win_h200w150_B9.StaticMeshComponent0)
+[2021.07.26-09.54.14:983][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.07.26-09.54.15:001][181]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/PersistentLevel4C1C9CE14B293254ED0499AB5308AC72.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/PersistentLevel.umap'
+[2021.07.26-09.54.15:010][181]LogFileHelpers: Saving map 'PersistentLevel' took 0.033
+[2021.07.26-09.54.15:019][181]AssetCheck: New page: Asset Save: PersistentLevel
+[2021.07.26-09.54.15:019][181]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/PersistentLevel.PersistentLevel
+[2021.07.26-09.54.18:053][510]LogObjectTools: Deleting 1 worlds: /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel
+[2021.07.26-09.54.18:053][510]LogObjectTools: Currently 13 active worlds: /Game/Assignments/Submissions/PersistentLevel.PersistentLevel, /Game/Assignments/Submissions/Cantius/Cantius.Cantius, /Game/Assignments/Submissions/Jean/Jean.Jean, /Game/Assignments/Submissions/Xurong/Xurong.Xurong, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8
+[2021.07.26-09.54.18:059][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.07.26-09.54.19:103][510]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.26-09.54.19:122][510]LogWorld: UWorld::CleanupWorld for ClassExercise-BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.54.19:122][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.54.19:175][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.07.26-09.54.19:193][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.07.26-09.54.19:200][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
