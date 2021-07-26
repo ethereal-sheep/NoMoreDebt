@@ -831,3 +831,704 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 	Function /Game/DigiPen/04_Characters/Base_Character/Base_TFP_Player_AnimBP.Base_TFP_Player_AnimBP_C:ExecuteUbergraph_Base_TFP_Player_AnimBP:068A
 [2021.07.26-09.24.53:574][ 39]LogSlate: Window 'Message Log' being destroyed
 [2021.07.26-09.24.53:581][ 39]LogSlate: Window 'Message Log' being destroyed
+[2021.07.26-09.25.14:236][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.07.26-09.25.14:251][198]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.26-09.25.14:292][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_01': Can't find file.
+[2021.07.26-09.25.14:292][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_01': Can't find file.
+[2021.07.26-09.25.14:293][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_02': Can't find file.
+[2021.07.26-09.25.14:293][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_02': Can't find file.
+[2021.07.26-09.25.14:293][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:293][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:293][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickDirt01': Can't find file.
+[2021.07.26-09.25.14:293][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickDirt01': Can't find file.
+[2021.07.26-09.25.14:294][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Concrete/MI_ConcreteSlabs02': Can't find file.
+[2021.07.26-09.25.14:294][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Concrete/MI_ConcreteSlabs02': Can't find file.
+[2021.07.26-09.25.14:294][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_01': Can't find file.
+[2021.07.26-09.25.14:294][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_02': Can't find file.
+[2021.07.26-09.25.14:297][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Ranged_Dawn': Can't find file.
+[2021.07.26-09.25.14:298][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Ranged_Dawn': Can't find file.
+[2021.07.26-09.25.14:298][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Melee_Dusk': Can't find file.
+[2021.07.26-09.25.14:298][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Melee_Dusk': Can't find file.
+[2021.07.26-09.25.14:298][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Ranged_Dusk': Can't find file.
+[2021.07.26-09.25.14:298][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Ranged_Dusk': Can't find file.
+[2021.07.26-09.25.14:298][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:299][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickDirt01': Can't find file.
+[2021.07.26-09.25.14:299][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Concrete/MI_ConcreteSlabs02': Can't find file.
+[2021.07.26-09.25.14:299][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Ranged_Dawn': Can't find file.
+[2021.07.26-09.25.14:299][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Melee_Dusk': Can't find file.
+[2021.07.26-09.25.14:299][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Ranged_Dusk': Can't find file.
+[2021.07.26-09.25.14:300][198]LogLinker: Warning: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_01': Can't find file.
+[2021.07.26-09.25.14:300][198]LogLinker: Warning: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_02': Can't find file.
+[2021.07.26-09.25.14:300][198]LogLinker: Warning: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:300][198]LogLinker: Warning: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickDirt01': Can't find file.
+[2021.07.26-09.25.14:300][198]LogLinker: Warning: Failed to load '/Game/TwinmotionMaterials/Materials/Concrete/MI_ConcreteSlabs02': Can't find file.
+[2021.07.26-09.25.14:300][198]LogLinker: Warning: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_01': Can't find file.
+[2021.07.26-09.25.14:301][198]LogLinker: Warning: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_02': Can't find file.
+[2021.07.26-09.25.14:301][198]LogLinker: Warning: Failed to load '/Game/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Ranged_Dawn': Can't find file.
+[2021.07.26-09.25.14:301][198]LogLinker: Warning: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Melee_Dusk': Can't find file.
+[2021.07.26-09.25.14:301][198]LogLinker: Warning: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Ranged_Dusk': Can't find file.
+[2021.07.26-09.25.14:301][198]LogLinker: Warning: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:301][198]LogLinker: Warning: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickDirt01': Can't find file.
+[2021.07.26-09.25.14:301][198]LogLinker: Warning: Failed to load '/Game/TwinmotionMaterials/Materials/Concrete/MI_ConcreteSlabs02': Can't find file.
+[2021.07.26-09.25.14:301][198]LogLinker: Warning: Failed to load '/Game/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Ranged_Dawn': Can't find file.
+[2021.07.26-09.25.14:301][198]LogLinker: Warning: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Melee_Dusk': Can't find file.
+[2021.07.26-09.25.14:301][198]LogLinker: Warning: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Ranged_Dusk': Can't find file.
+[2021.07.26-09.25.14:309][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_01': Can't find file.
+[2021.07.26-09.25.14:309][198]LoadErrors: Failed to load /Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_01.MI_Logo_01 Referenced by MI_Logo_01_13
+[2021.07.26-09.25.14:309][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_02': Can't find file.
+[2021.07.26-09.25.14:309][198]LoadErrors: Failed to load /Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_02.MI_Logo_02 Referenced by MI_Logo_02_2
+[2021.07.26-09.25.14:312][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:312][198]LoadErrors: Failed to load /Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02.MI_BrickClean02 Referenced by Model_0
+[2021.07.26-09.25.14:314][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:314][198]LoadErrors: Failed to load /Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02.MI_BrickClean02 Referenced by ModelComponent_18
+[2021.07.26-09.25.14:315][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:315][198]LoadErrors: Failed to load /Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02.MI_BrickClean02 Referenced by ModelComponent_20
+[2021.07.26-09.25.14:315][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:315][198]LoadErrors: Failed to load /Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02.MI_BrickClean02 Referenced by ModelComponent_21
+[2021.07.26-09.25.14:315][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:315][198]LoadErrors: Failed to load /Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02.MI_BrickClean02 Referenced by ModelComponent_22
+[2021.07.26-09.25.14:315][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:315][198]LoadErrors: Failed to load /Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02.MI_BrickClean02 Referenced by ModelComponent_24
+[2021.07.26-09.25.14:316][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:316][198]LoadErrors: Failed to load /Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02.MI_BrickClean02 Referenced by Polys_0
+[2021.07.26-09.25.14:317][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Ranged_Dusk': Can't find file.
+[2021.07.26-09.25.14:317][198]LoadErrors: Failed to load /Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Ranged_Dusk.Minion_Lane_Ranged_Dusk Referenced by Enemy_Robot_Ranged_2
+[2021.07.26-09.25.14:317][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Melee_Dusk': Can't find file.
+[2021.07.26-09.25.14:317][198]LoadErrors: Failed to load /Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Melee_Dusk.Minion_Lane_Melee_Dusk Referenced by Minion_Lane_Melee_Dusk_3
+[2021.07.26-09.25.14:317][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Ranged_Dawn': Can't find file.
+[2021.07.26-09.25.14:317][198]LoadErrors: Failed to load /Game/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Ranged_Dawn.Minion_Lane_Ranged_Dawn Referenced by Minion_Lane_Ranged_Dawn
+[2021.07.26-09.25.14:318][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Concrete/MI_ConcreteSlabs02': Can't find file.
+[2021.07.26-09.25.14:318][198]LoadErrors: Failed to load /Game/TwinmotionMaterials/Materials/Concrete/MI_ConcreteSlabs02.MI_ConcreteSlabs02 Referenced by Cube_2
+[2021.07.26-09.25.14:319][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickDirt01': Can't find file.
+[2021.07.26-09.25.14:319][198]LoadErrors: Failed to load /Game/TwinmotionMaterials/Materials/Brick/MI_BrickDirt01.MI_BrickDirt01 Referenced by Wall_h400w200_Win_h200w150_B3
+[2021.07.26-09.25.14:319][198]LogLinker: Warning: [AssetLog] D:\Google Drive\School\2021 5 - Summer\DES214\Assignments\NoMoreDebt\DigiPen2105 4.26\Content\Assignments\Submissions\ClassExercise-BlankLevel.umap: Failed to load '/Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02': Can't find file.
+[2021.07.26-09.25.14:319][198]LoadErrors: Failed to load /Game/TwinmotionMaterials/Materials/Brick/MI_BrickClean02.MI_BrickClean02 Referenced by Wall_h400w200_Win_h200w150_B_8
+[2021.07.26-09.25.14:347][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:347][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:347][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:347][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:359][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:360][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:360][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:360][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:360][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:360][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:360][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:360][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:360][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:361][198]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel
+[2021.07.26-09.25.14:362][198]LightingResults: New page: Lighting Build
+[2021.07.26-09.25.14:362][198]LoadErrors: New page: Loading map: ClassExercise-BlankLevel.umap
+[2021.07.26-09.25.14:410][198]LogWorld: UWorld::CleanupWorld for ClassExercise-BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.25.14:410][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.25.14:411][198]MapCheck: New page: Map Check
+[2021.07.26-09.25.14:411][198]LightingResults: New page: Lighting Build
+[2021.07.26-09.25.14:417][198]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-09.25.14:433][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.07.26-09.25.14:435][198]LogAudio: Display: Audio Device (ID: 1) registered with world 'ClassExercise-BlankLevel'.
+[2021.07.26-09.25.14:439][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:439][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:439][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:440][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:452][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:453][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:453][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:453][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:453][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:453][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:453][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:453][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:453][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(Enemy_Robot_Ranged_2)
+[2021.07.26-09.25.14:454][198]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-09.25.14:455][198]LogAIModule: Creating AISystem for world ClassExercise-BlankLevel
+[2021.07.26-09.25.14:473][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.07.26-09.25.14:481][198]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-09.25.14:481][198]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2021.07.26-09.25.14:481][198]LogFileHelpers: Loading map 'ClassExercise-BlankLevel' took 0.119
+[2021.07.26-09.25.33:273][186]LogSlate: Window 'New Level' being destroyed
+[2021.07.26-09.25.41:106][186]LogSlate: Window 'Save Level As' being destroyed
+[2021.07.26-09.25.41:137][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.07.26-09.25.41:140][186]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/Jean61E65DB144F2EADC03D99B8A81617CC2.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Jean/Jean.umap'
+[2021.07.26-09.25.41:149][186]LogFileHelpers: Saving map 'Jean' took 0.037
+[2021.07.26-09.25.41:175][186]AssetCheck: New page: Asset Save: Jean
+[2021.07.26-09.25.41:175][186]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/Jean/Jean.Jean
+[2021.07.26-09.25.48:185][999]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.07.26-09.26.46:410][466]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.26.46:410][466]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.26.46:411][466]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.26.46:411][466]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.26.46:411][466]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.26.46:411][466]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.26.46:418][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.07.26-09.26.46:441][466]LogEditorActor: Deleted 6 Actors (0.034 secs)
+[2021.07.26-09.26.52:924][215]LogEditorViewport: Clicking on Actor (LMB): InterObj_Door3_C (InterObj_Door3)
+[2021.07.26-09.27.02:330][260]LogEditorActor: Deleted Actor: InterObj_Door3_C
+[2021.07.26-09.27.02:331][260]LogEditorActor: Deleted Actor: InteractableObject_Door_v3_C
+[2021.07.26-09.27.02:339][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.07.26-09.27.02:341][260]LogEditorActor: Deleted 2 Actors (0.012 secs)
+[2021.07.26-09.27.06:939][790]LogEditorViewport: Clicking on Actor (LMB): DecalActor (MI_Logo_01)
+[2021.07.26-09.27.09:586][ 98]Cmd: DELETE
+[2021.07.26-09.27.09:587][ 98]Cmd: ACTOR DELETE
+[2021.07.26-09.27.09:599][ 98]LogEditorActor: Deleted Actor: DecalActor
+[2021.07.26-09.27.09:606][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.07.26-09.27.09:608][ 98]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.26-09.27.10:360][188]LogEditorViewport: Clicking on Actor (LMB): DecalActor (MI_Logo_02)
+[2021.07.26-09.27.10:668][221]Cmd: DELETE
+[2021.07.26-09.27.10:668][221]Cmd: ACTOR DELETE
+[2021.07.26-09.27.10:675][221]LogEditorActor: Deleted Actor: DecalActor
+[2021.07.26-09.27.10:681][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.07.26-09.27.10:682][221]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.26-09.27.11:110][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.07.26-09.27.11:418][301]Cmd: DELETE
+[2021.07.26-09.27.11:418][301]Cmd: ACTOR DELETE
+[2021.07.26-09.27.11:424][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.27.11:429][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.07.26-09.27.11:430][301]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.07.26-09.28.01:934][806]LogSlate: Window 'Pasting To Hidden Level' being destroyed
+[2021.07.26-09.28.04:627][118]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.07.26-09.28.08:571][371]LogSlate: Window 'Pasting To Hidden Level' being destroyed
+[2021.07.26-09.28.14:814][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.07.26-09.28.34:449][225]LogSlate: Window 'New Level' being destroyed
+[2021.07.26-09.28.41:037][225]LogSlate: Window 'Message' being destroyed
+[2021.07.26-09.28.41:042][225]Message dialog closed, result: Yes, title: Message, text: Cantius already exists. Do you want to replace it?
+[2021.07.26-09.28.41:042][225]LogSlate: Window 'Save Level As' being destroyed
+[2021.07.26-09.28.41:086][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.07.26-09.28.41:152][225]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/CantiusC306AC25416817D3A3801DB7EE8B47AE.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Cantius.umap'
+[2021.07.26-09.28.41:158][225]LogFileHelpers: Saving map 'Cantius' took 0.097
+[2021.07.26-09.28.41:188][225]AssetCheck: New page: Asset Save: Cantius
+[2021.07.26-09.28.41:188][225]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/Cantius/Cantius.Cantius
+[2021.07.26-09.28.55:784][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cargo_Pallet_200x224)
+[2021.07.26-09.28.57:492][ 85]Cmd: DELETE
+[2021.07.26-09.28.57:492][ 85]Cmd: ACTOR DELETE
+[2021.07.26-09.28.57:499][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.28.57:506][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.07.26-09.28.57:508][ 85]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.26-09.28.57:960][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cargo_Pallet_200x225)
+[2021.07.26-09.28.58:218][161]Cmd: DELETE
+[2021.07.26-09.28.58:218][161]Cmd: ACTOR DELETE
+[2021.07.26-09.28.58:225][161]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.28.58:231][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.07.26-09.28.58:232][161]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.26-09.28.58:647][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cargo_Pallet_200x205)
+[2021.07.26-09.28.58:894][233]Cmd: DELETE
+[2021.07.26-09.28.58:894][233]Cmd: ACTOR DELETE
+[2021.07.26-09.28.58:902][233]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.28.58:908][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.07.26-09.28.58:909][233]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.26-09.28.59:262][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cargo_Pallet_200x203)
+[2021.07.26-09.28.59:497][295]Cmd: DELETE
+[2021.07.26-09.28.59:498][295]Cmd: ACTOR DELETE
+[2021.07.26-09.28.59:503][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.28.59:511][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.07.26-09.28.59:511][295]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.26-09.28.59:907][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cargo_Pallet_200x201)
+[2021.07.26-09.29.00:191][367]Cmd: DELETE
+[2021.07.26-09.29.00:191][367]Cmd: ACTOR DELETE
+[2021.07.26-09.29.00:197][367]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.29.00:204][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.07.26-09.29.00:205][367]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.26-09.29.00:564][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cargo_Pallet_200x202)
+[2021.07.26-09.29.00:797][431]Cmd: DELETE
+[2021.07.26-09.29.00:797][431]Cmd: ACTOR DELETE
+[2021.07.26-09.29.00:804][431]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.29.00:811][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.07.26-09.29.00:812][431]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.26-09.29.01:187][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cargo_Pallet_200x200)
+[2021.07.26-09.29.01:440][499]Cmd: DELETE
+[2021.07.26-09.29.01:440][499]Cmd: ACTOR DELETE
+[2021.07.26-09.29.01:447][499]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.29.01:454][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.07.26-09.29.01:454][499]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.26-09.29.01:788][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cargo_Pallet_200x204)
+[2021.07.26-09.29.02:047][562]Cmd: DELETE
+[2021.07.26-09.29.02:047][562]Cmd: ACTOR DELETE
+[2021.07.26-09.29.02:053][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.29.02:061][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.07.26-09.29.02:062][562]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.26-09.29.02:406][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cargo_Pallet_200x206)
+[2021.07.26-09.29.02:656][624]Cmd: DELETE
+[2021.07.26-09.29.02:656][624]Cmd: ACTOR DELETE
+[2021.07.26-09.29.02:663][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.29.02:670][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.07.26-09.29.02:671][624]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.26-09.29.04:811][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_h400w200_Win_h200w150_B)
+[2021.07.26-09.29.10:830][556]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_h400w200_Win_h200w150_B3)
+[2021.07.26-09.29.23:653][ 11]LogEditorViewport: Clicking on Actor (LMB): Enemy_Robot_Ranged_C (Enemy_Robot_Ranged2)
+[2021.07.26-09.29.24:515][ 87]Cmd: DELETE
+[2021.07.26-09.29.24:515][ 87]Cmd: ACTOR DELETE
+[2021.07.26-09.29.24:523][ 87]LogEditorActor: Deleted Actor: Enemy_Robot_Ranged_C
+[2021.07.26-09.29.24:531][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.07.26-09.29.24:532][ 87]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.07.26-09.29.25:100][154]LogEditorViewport: Clicking on Actor (LMB): Enemy_Robot_Ranged_C (Enemy_Robot_Ranged)
+[2021.07.26-09.29.25:538][195]Cmd: DELETE
+[2021.07.26-09.29.25:538][195]Cmd: ACTOR DELETE
+[2021.07.26-09.29.25:544][195]LogEditorActor: Deleted Actor: Enemy_Robot_Ranged_C
+[2021.07.26-09.29.25:552][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.07.26-09.29.25:553][195]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.26-09.29.59:080][988]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.29.59:081][988]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.29.59:081][988]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.29.59:081][988]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.29.59:082][988]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.29.59:082][988]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.29.59:092][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.07.26-09.29.59:112][988]LogEditorActor: Deleted 6 Actors (0.034 secs)
+[2021.07.26-09.30.06:838][888]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.07.26-09.30.10:681][289]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.30.10:692][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.07.26-09.30.10:714][289]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.07.26-09.30.15:224][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_h400w200_Win_h200w150_B2)
+[2021.07.26-09.30.16:821][986]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Door_400x400)
+[2021.07.26-09.30.19:984][335]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_h400w200_Win_h200w150_B2)
+[2021.07.26-09.30.23:648][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.30.23:648][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.30.23:660][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.07.26-09.30.23:662][692]LogEditorActor: Deleted 2 Actors (0.016 secs)
+[2021.07.26-09.30.28:739][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cargo_Pallet_200x226)
+[2021.07.26-09.30.29:565][367]Cmd: DELETE
+[2021.07.26-09.30.29:565][367]Cmd: ACTOR DELETE
+[2021.07.26-09.30.29:572][367]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.30.29:583][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.07.26-09.30.29:585][367]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.07.26-09.32.13:335][532]LogSlate: Window 'New Level' being destroyed
+[2021.07.26-09.32.18:084][532]LogSlate: Window 'Save Level As' being destroyed
+[2021.07.26-09.32.18:126][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.07.26-09.32.18:130][532]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/Xurong9F10C9D0481698006CA770ADAC9FB295.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Xurong/Xurong.umap'
+[2021.07.26-09.32.18:135][532]LogFileHelpers: Saving map 'Xurong' took 0.042
+[2021.07.26-09.32.18:162][532]AssetCheck: New page: Asset Save: Xurong
+[2021.07.26-09.32.18:162][532]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/Xurong/Xurong.Xurong
+[2021.07.26-09.32.22:533][ 10]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.07.26-09.32.22:533][ 10]LogEditorActor: Deleted Actor: InteractableObject_Door_v3_C
+[2021.07.26-09.32.22:534][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.22:534][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.22:535][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.22:535][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.22:535][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.22:535][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.22:535][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.22:536][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.22:536][ 10]LogEditorActor: Deleted Actor: PlayerStart
+[2021.07.26-09.32.22:536][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.22:537][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.22:537][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.22:537][ 10]LogEditorActor: Deleted Actor: InteractableObject_Door_v3_C
+[2021.07.26-09.32.22:539][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:539][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:539][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:539][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:540][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:540][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:540][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:540][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:540][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:541][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:541][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:541][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:541][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:542][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:542][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:542][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:543][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:543][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:543][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:544][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:544][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:545][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:545][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:545][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:546][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:546][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:546][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:547][ 10]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.22:557][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.07.26-09.32.22:560][ 10]LogEditorActor: Deleted 43 Actors (0.029 secs)
+[2021.07.26-09.32.28:677][733]Cmd: TRANSACTION UNDO
+[2021.07.26-09.32.28:677][733]LogEditorTransaction: Undo Move Selected Actors to Level
+[2021.07.26-09.32.42:126][226]LogEditorActor: Deleted Actor: PlayerStart
+[2021.07.26-09.32.42:127][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.42:127][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.42:128][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:129][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:129][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:129][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:130][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:130][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:130][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:130][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:130][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:131][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:131][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:131][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:132][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:132][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.42:132][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:132][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.42:133][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.42:133][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.42:133][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.42:133][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.42:133][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:134][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:134][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:134][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:134][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:134][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:135][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.42:135][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:135][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:135][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:136][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.42:136][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:136][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:136][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:137][226]LogEditorActor: Deleted Actor: InteractableObject_Door_v3_C
+[2021.07.26-09.32.42:137][226]LogEditorActor: Deleted Actor: InteractableObject_Door_v3_C
+[2021.07.26-09.32.42:138][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-09.32.42:138][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:138][226]LogEditorActor: Deleted Actor: Brush
+[2021.07.26-09.32.42:148][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.07.26-09.32.42:153][226]LogEditorActor: Deleted 42 Actors (0.028 secs)
+[2021.07.26-09.32.42:229][226]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.26-09.33.09:278][389]LogEditorActor: Deleted Actor: PlayerStart
+[2021.07.26-09.33.09:291][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.07.26-09.33.09:293][389]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.07.26-09.33.09:297][389]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.26-09.33.09:310][389]LogLevelTools: Error: Cannot find remapping for moved actor ID /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel:PersistentLevel.NetworkPlayerStart_0, any soft references pointing to it will be broken!
+[2021.07.26-09.33.23:483][  8]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.26-09.33.24:274][100]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.26-09.33.25:948][296]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.26-09.33.28:355][572]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.26-09.33.29:815][741]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.26-09.33.32:885][ 91]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.26-09.33.34:488][278]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.26-09.33.45:307][516]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2021.07.26-09.33.58:019][820]Cmd: DELETE
+[2021.07.26-09.33.58:019][820]Cmd: ACTOR DELETE
+[2021.07.26-09.33.58:027][820]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.07.26-09.33.58:027][820]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.07.26-09.33.58:040][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.07.26-09.33.58:042][820]LogEditorActor: Deleted 2 Actors (0.023 secs)
+[2021.07.26-09.34.07:733][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.26-09.34.07:733][913]PIE: New page: PIE session: ClassExercise-BlankLevel (27 Jul 2021, 1:34:07 am)
+[2021.07.26-09.34.07:735][913]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.26-09.34.07:736][913]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.26-09.34.07:736][913]LogPlayLevel: Creating play world package: /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.34.07:750][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013955s)
+[2021.07.26-09.34.07:752][913]LogAIModule: Creating AISystem for world ClassExercise-BlankLevel
+[2021.07.26-09.34.07:752][913]LogPlayLevel: PIE: World Init took: (0.002160s)
+[2021.07.26-09.34.07:752][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel to /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel (0.016300s)
+[2021.07.26-09.34.07:806][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.07.26-09.34.07:808][913]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.26-09.34.07:808][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.26-09.34.07:808][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.26-09.34.07:808][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.26-09.34.07:808][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.26-09.34.07:808][913]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.26-09.34.07:808][913]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.26-09.34.07:808][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.26-09.34.07:808][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.26-09.34.07:809][913]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.26-09.34.07:809][913]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.26-09.34.07:812][913]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.26-09.34.07:812][913]LogAudioMixer: Display: 1: FrontRight
+[2021.07.26-09.34.07:824][913]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.07.26-09.34.07:824][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.26-09.34.07:824][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.26-09.34.07:825][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.26-09.34.07:826][913]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.26-09.34.07:826][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.26-09.34.07:826][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.26-09.34.07:842][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.26-09.34.07:842][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.26-09.34.07:842][913]LogInit: FAudioDevice initialized.
+[2021.07.26-09.34.07:842][913]LogAudio: Display: Audio Device (ID: 2) registered with world 'ClassExercise-BlankLevel'.
+[2021.07.26-09.34.07:893][913]LogLoad: Game class is 'DPGameMode_FPS_C'
+[2021.07.26-09.34.07:894][913]LogWorld: Bringing World /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel up for play (max tick rate 0) at 2021.07.26-17.34.07
+[2021.07.26-09.34.07:894][913]LogWorld: Bringing up level for play took: 0.000563
+[2021.07.26-09.34.07:894][913]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.07.26-09.34.07:903][913]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.07.26-09.34.07:908][913]PIE: Server logged in
+[2021.07.26-09.34.07:910][913]PIE: Play in editor total start time 0.178 seconds.
+[2021.07.26-09.34.09:662][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.34.09:662][113]LogWorld: BeginTearingDown for /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.34.09:662][113]LogWorld: UWorld::CleanupWorld for ClassExercise-BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.34.09:663][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.34.09:674][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.26-09.34.09:691][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.34.09:704][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-09.34.09:705][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.34.09:706][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.34.09:726][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.34.09:729][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.07.26-09.34.09:766][114]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.07.26-09.34.41:340][442]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.26-09.34.41:348][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.26-09.34.41:348][442]PIE: New page: PIE session: ClassExercise-BlankLevel (27 Jul 2021, 1:34:41 am)
+[2021.07.26-09.34.41:370][442]LogPlayLevel: Creating play world package: /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.34.41:382][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011425s)
+[2021.07.26-09.34.41:383][442]LogAIModule: Creating AISystem for world ClassExercise-BlankLevel
+[2021.07.26-09.34.41:383][442]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2021.07.26-09.34.41:383][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel to /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel (0.012693s)
+[2021.07.26-09.34.41:396][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.07.26-09.34.41:399][442]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.26-09.34.41:399][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.26-09.34.41:399][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.26-09.34.41:399][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.26-09.34.41:399][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.26-09.34.41:399][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.26-09.34.41:399][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.26-09.34.41:399][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.26-09.34.41:400][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.26-09.34.41:401][442]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.26-09.34.41:401][442]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.26-09.34.41:405][442]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.26-09.34.41:405][442]LogAudioMixer: Display: 1: FrontRight
+[2021.07.26-09.34.41:420][442]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.07.26-09.34.41:420][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.26-09.34.41:420][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.26-09.34.41:420][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.26-09.34.41:421][442]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.26-09.34.41:421][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.26-09.34.41:421][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.26-09.34.41:435][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.26-09.34.41:435][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.26-09.34.41:435][442]LogInit: FAudioDevice initialized.
+[2021.07.26-09.34.41:435][442]LogAudio: Display: Audio Device (ID: 3) registered with world 'ClassExercise-BlankLevel'.
+[2021.07.26-09.34.41:441][442]LogLoad: Game class is 'DPGameMode_FPS_C'
+[2021.07.26-09.34.41:442][442]LogWorld: Bringing World /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel up for play (max tick rate 0) at 2021.07.26-17.34.41
+[2021.07.26-09.34.41:442][442]LogWorld: Bringing up level for play took: 0.000632
+[2021.07.26-09.34.41:442][442]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.07.26-09.34.41:447][442]PIE: Server logged in
+[2021.07.26-09.34.41:448][442]PIE: Play in editor total start time 0.101 seconds.
+[2021.07.26-09.34.45:962][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.34.45:962][975]LogWorld: BeginTearingDown for /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.34.45:962][975]LogWorld: UWorld::CleanupWorld for ClassExercise-BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.34.45:962][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.34.45:968][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.26-09.34.45:983][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.34.45:995][975]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-09.34.45:995][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.34.45:996][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.34.46:011][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.34.46:013][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.07.26-09.34.46:049][976]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.07.26-09.35.13:274][ 37]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.26-09.35.16:678][401]LogActorFactory: Actor Factory created Plane
+[2021.07.26-09.35.17:944][537]LogActorFactory: Actor Factory created Plane
+[2021.07.26-09.35.41:062][200]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.26-09.35.41:069][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.26-09.35.41:069][200]PIE: New page: PIE session: ClassExercise-BlankLevel (27 Jul 2021, 1:35:41 am)
+[2021.07.26-09.35.41:110][200]LogPlayLevel: Creating play world package: /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.35.41:120][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010020s)
+[2021.07.26-09.35.41:121][200]LogAIModule: Creating AISystem for world ClassExercise-BlankLevel
+[2021.07.26-09.35.41:121][200]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2021.07.26-09.35.41:121][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel to /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel (0.011607s)
+[2021.07.26-09.35.41:167][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.07.26-09.35.41:169][200]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.07.26-09.35.41:169][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.26-09.35.41:169][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.26-09.35.41:169][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.26-09.35.41:169][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.26-09.35.41:169][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.26-09.35.41:169][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.26-09.35.41:169][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.26-09.35.41:169][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.26-09.35.41:169][200]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.26-09.35.41:169][200]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.26-09.35.41:172][200]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.26-09.35.41:172][200]LogAudioMixer: Display: 1: FrontRight
+[2021.07.26-09.35.41:182][200]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.07.26-09.35.41:182][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.26-09.35.41:182][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.26-09.35.41:182][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.26-09.35.41:183][200]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.26-09.35.41:183][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.26-09.35.41:183][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.26-09.35.41:196][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.26-09.35.41:196][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.26-09.35.41:197][200]LogInit: FAudioDevice initialized.
+[2021.07.26-09.35.41:197][200]LogAudio: Display: Audio Device (ID: 4) registered with world 'ClassExercise-BlankLevel'.
+[2021.07.26-09.35.41:207][200]LogLoad: Game class is 'DPGameMode_FPS_C'
+[2021.07.26-09.35.41:208][200]LogWorld: Bringing World /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel up for play (max tick rate 0) at 2021.07.26-17.35.41
+[2021.07.26-09.35.41:209][200]LogWorld: Bringing up level for play took: 0.000701
+[2021.07.26-09.35.41:209][200]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.07.26-09.35.41:217][200]PIE: Server logged in
+[2021.07.26-09.35.41:218][200]PIE: Play in editor total start time 0.15 seconds.
+[2021.07.26-09.35.48:530][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.35.48:530][ 65]LogWorld: BeginTearingDown for /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.35.48:530][ 65]LogWorld: UWorld::CleanupWorld for ClassExercise-BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.35.48:530][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.35.48:536][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.26-09.35.48:559][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.35.48:572][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-09.35.48:572][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.35.48:573][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.35.48:590][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.35.48:593][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.07.26-09.35.48:634][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.07.26-09.35.55:188][748]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.26-09.35.55:196][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.26-09.35.55:196][748]PIE: New page: PIE session: ClassExercise-BlankLevel (27 Jul 2021, 1:35:55 am)
+[2021.07.26-09.35.55:196][748]LogPlayLevel: Creating play world package: /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.35.55:208][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011404s)
+[2021.07.26-09.35.55:209][748]LogAIModule: Creating AISystem for world ClassExercise-BlankLevel
+[2021.07.26-09.35.55:209][748]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2021.07.26-09.35.55:209][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel to /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel (0.012666s)
+[2021.07.26-09.35.55:258][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.07.26-09.35.55:259][748]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.07.26-09.35.55:259][748]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.26-09.35.55:259][748]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.26-09.35.55:259][748]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.26-09.35.55:259][748]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.26-09.35.55:259][748]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.26-09.35.55:259][748]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.26-09.35.55:259][748]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.26-09.35.55:259][748]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.26-09.35.55:260][748]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.26-09.35.55:260][748]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.26-09.35.55:263][748]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.26-09.35.55:263][748]LogAudioMixer: Display: 1: FrontRight
+[2021.07.26-09.35.55:274][748]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.07.26-09.35.55:274][748]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.26-09.35.55:274][748]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.26-09.35.55:274][748]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.26-09.35.55:275][748]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.26-09.35.55:275][748]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.26-09.35.55:275][748]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.26-09.35.55:291][748]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.26-09.35.55:291][748]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.26-09.35.55:291][748]LogInit: FAudioDevice initialized.
+[2021.07.26-09.35.55:291][748]LogAudio: Display: Audio Device (ID: 5) registered with world 'ClassExercise-BlankLevel'.
+[2021.07.26-09.35.55:302][748]LogLoad: Game class is 'DPGameMode_FPS_C'
+[2021.07.26-09.35.55:303][748]LogWorld: Bringing World /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel up for play (max tick rate 0) at 2021.07.26-17.35.55
+[2021.07.26-09.35.55:304][748]LogWorld: Bringing up level for play took: 0.000759
+[2021.07.26-09.35.55:304][748]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.07.26-09.35.55:310][748]PIE: Server logged in
+[2021.07.26-09.35.55:311][748]PIE: Play in editor total start time 0.115 seconds.
+[2021.07.26-09.35.58:580][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.35.58:580][123]LogWorld: BeginTearingDown for /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.35.58:580][123]LogWorld: UWorld::CleanupWorld for ClassExercise-BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.35.58:580][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.35.58:587][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.26-09.35.58:608][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.35.58:621][123]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-09.35.58:621][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.35.58:622][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.35.58:638][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.35.58:640][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.07.26-09.35.58:674][124]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.07.26-09.36.18:609][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.07.26-09.36.18:620][346]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/Cantius043E68384712EE25FD6CFDA71E2DE87B.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Cantius.umap'
+[2021.07.26-09.36.18:659][346]AssetCheck: New page: Asset Save: Cantius
+[2021.07.26-09.36.18:659][346]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/Cantius/Cantius.Cantius
+[2021.07.26-09.36.26:015][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.07.26-09.36.26:026][135]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/JeanD22B44F4401718D21174F99A5855958B.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Jean/Jean.umap'
+[2021.07.26-09.36.26:081][135]AssetCheck: New page: Asset Save: Jean
+[2021.07.26-09.36.26:081][135]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/Jean/Jean.Jean
+[2021.07.26-09.36.30:336][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.07.26-09.36.30:369][595]LogSavePackage: Moving 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/Xurong2013D27249868D660BFFF887EEFDB819.tmp' to 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Xurong/Xurong.umap'
+[2021.07.26-09.36.30:450][595]AssetCheck: New page: Asset Save: Xurong
+[2021.07.26-09.36.30:450][595]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/Xurong/Xurong.Xurong
+[2021.07.26-09.36.32:096][780]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.26-09.36.32:105][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.26-09.36.32:105][780]PIE: New page: PIE session: ClassExercise-BlankLevel (27 Jul 2021, 1:36:32 am)
+[2021.07.26-09.36.32:105][780]LogPlayLevel: Creating play world package: /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.36.32:116][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011068s)
+[2021.07.26-09.36.32:117][780]LogAIModule: Creating AISystem for world ClassExercise-BlankLevel
+[2021.07.26-09.36.32:118][780]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2021.07.26-09.36.32:118][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel to /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel (0.012792s)
+[2021.07.26-09.36.32:162][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.07.26-09.36.32:163][780]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.07.26-09.36.32:163][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.26-09.36.32:163][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.26-09.36.32:163][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.26-09.36.32:163][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.26-09.36.32:163][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.26-09.36.32:163][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.26-09.36.32:163][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.26-09.36.32:163][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.26-09.36.32:164][780]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.26-09.36.32:164][780]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.26-09.36.32:167][780]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.26-09.36.32:167][780]LogAudioMixer: Display: 1: FrontRight
+[2021.07.26-09.36.32:177][780]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.07.26-09.36.32:177][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.26-09.36.32:177][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.26-09.36.32:177][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.26-09.36.32:178][780]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.26-09.36.32:178][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.26-09.36.32:178][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.26-09.36.32:195][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.26-09.36.32:196][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.26-09.36.32:196][780]LogInit: FAudioDevice initialized.
+[2021.07.26-09.36.32:196][780]LogAudio: Display: Audio Device (ID: 6) registered with world 'ClassExercise-BlankLevel'.
+[2021.07.26-09.36.32:203][780]LogLoad: Game class is 'DPGameMode_FPS_C'
+[2021.07.26-09.36.32:248][780]LogWorld: Bringing World /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel up for play (max tick rate 0) at 2021.07.26-17.36.32
+[2021.07.26-09.36.32:249][780]LogWorld: Bringing up level for play took: 0.000808
+[2021.07.26-09.36.32:249][780]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.07.26-09.36.32:255][780]PIE: Server logged in
+[2021.07.26-09.36.32:255][780]PIE: Play in editor total start time 0.151 seconds.
+[2021.07.26-09.36.56:470][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.36.56:470][672]LogWorld: BeginTearingDown for /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.36.56:470][672]LogWorld: UWorld::CleanupWorld for ClassExercise-BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.36.56:471][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.36.56:477][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.26-09.36.56:497][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.36.56:512][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.36.56:512][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.36.56:513][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.36.56:534][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.07.26-09.36.56:575][673]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.07.26-09.36.56:586][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.07.26-09.37.22:834][644]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.26-09.37.22:841][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.26-09.37.22:841][644]PIE: New page: PIE session: ClassExercise-BlankLevel (27 Jul 2021, 1:37:22 am)
+[2021.07.26-09.37.22:868][644]LogPlayLevel: Creating play world package: /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.37.22:878][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009623s)
+[2021.07.26-09.37.22:879][644]LogAIModule: Creating AISystem for world ClassExercise-BlankLevel
+[2021.07.26-09.37.22:880][644]LogPlayLevel: PIE: World Init took: (0.001901s)
+[2021.07.26-09.37.22:880][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignments/Submissions/ClassExercise-BlankLevel.ClassExercise-BlankLevel to /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel (0.011756s)
+[2021.07.26-09.37.22:894][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.07.26-09.37.22:895][644]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.07.26-09.37.22:896][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.26-09.37.22:896][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.26-09.37.22:896][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.26-09.37.22:896][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.26-09.37.22:896][644]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.26-09.37.22:896][644]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.26-09.37.22:896][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.26-09.37.22:896][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.26-09.37.22:896][644]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.26-09.37.22:896][644]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.26-09.37.22:900][644]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.26-09.37.22:900][644]LogAudioMixer: Display: 1: FrontRight
+[2021.07.26-09.37.22:914][644]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.07.26-09.37.22:914][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.26-09.37.22:915][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.26-09.37.22:915][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.26-09.37.22:915][644]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.26-09.37.22:915][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.26-09.37.22:915][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.26-09.37.22:929][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.26-09.37.22:929][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.26-09.37.22:929][644]LogInit: FAudioDevice initialized.
+[2021.07.26-09.37.22:929][644]LogAudio: Display: Audio Device (ID: 7) registered with world 'ClassExercise-BlankLevel'.
+[2021.07.26-09.37.22:939][644]LogLoad: Game class is 'DPGameMode_FPS_C'
+[2021.07.26-09.37.22:982][644]LogWorld: Bringing World /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel.ClassExercise-BlankLevel up for play (max tick rate 0) at 2021.07.26-17.37.22
+[2021.07.26-09.37.22:983][644]LogWorld: Bringing up level for play took: 0.000788
+[2021.07.26-09.37.22:983][644]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.07.26-09.37.22:989][644]PIE: Server logged in
+[2021.07.26-09.37.22:990][644]PIE: Play in editor total start time 0.15 seconds.
+[2021.07.26-09.39.06:437][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.39.06:437][369]LogWorld: BeginTearingDown for /Game/Assignments/Submissions/UEDPIE_0_ClassExercise-BlankLevel
+[2021.07.26-09.39.06:438][369]LogWorld: UWorld::CleanupWorld for ClassExercise-BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-09.39.06:438][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.39.06:448][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.26-09.39.06:470][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-09.39.06:485][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.26-09.39.06:485][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.39.06:486][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.26-09.39.06:504][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.07.26-09.39.06:544][370]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.07.26-09.39.06:556][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.07.26-09.46.15:391][725]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Google Drive/School/2021 5 - Summer/DES214/Assignments/NoMoreDebt/DigiPen2105 4.26/Saved/Collections/' because it could not be accessed. Aborting watch request...
