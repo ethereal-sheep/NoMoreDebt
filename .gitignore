@@ -74,4 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 DigiPen2105 4.26/Intermediate/**
 DigiPen2105 4.26/Saved/**
-DigiPen2105 4.26/Intermediate/CachedAssetRegistry.bin
+DigiPen2105 4.26/Content/ParagonMinions/*
+DigiPen2105 4.26/Content/AutomotiveMaterials/*
