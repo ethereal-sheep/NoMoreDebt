@@ -1124,3 +1124,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.28-07.09.13:239][446]LogSlate: Window 'Projectile_Child_AssaultRifle' being destroyed
 [2021.07.28-07.09.13:276][446]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
 [2021.07.28-07.09.13:276][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-07.10.24:477][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.07.28-07.10.34:896][812]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.28-07.11.13:725][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_Metal66CC00634292C85FC4DA84A21C654B82.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/PhysicalMaterials/M_Metal.uasset'
+[2021.07.28-07.11.13:727][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_Tile213A556643BD7C5EE1392D93772AB10F.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/PhysicalMaterials/M_Tile.uasset'
+[2021.07.28-07.11.13:727][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_ConcreteFB16AE424287D077DA788A960665DD41.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/PhysicalMaterials/M_Concrete.uasset'
+[2021.07.28-07.11.13:728][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_BodyDamageC00CBE6147DECECA5877C0A3CE5CABFB.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/PhysicalMaterials/M_BodyDamage.uasset'
+[2021.07.28-07.11.13:729][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_GlassC256AEAC489551967AACDEAC284D5429.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/PhysicalMaterials/M_Glass.uasset'
+[2021.07.28-07.11.13:730][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_GrassF40367E84B58385DDCCCA2A9227BD967.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/PhysicalMaterials/M_Grass.uasset'
+[2021.07.28-07.11.13:854][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.07.28-07.11.13:877][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.07.28-07.11.13:893][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.28-07.11.13:909][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.28-07.11.13:925][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.07.28-07.11.13:940][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.07.28-07.11.13:963][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.07.28-07.11.13:980][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.28-07.11.14:020][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/Metal_tiled75101EBD4710CD3F601E16B30491BEBF.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/Metal_tiled.uasset'
+[2021.07.28-07.11.14:038][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/Metal_tiled_hex_gray2F93BBDB4DAC38D63B7864907361E747.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/Metal_tiled_hex_gray.uasset'
+[2021.07.28-07.11.14:056][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/Metal_tiled_gray2C937FA048D2975A50DAC38F48916B6A.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/Metal_tiled_gray.uasset'
+[2021.07.28-07.11.14:089][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_FFA_Wall_05B0DA988E4C7FCE7438BCD4B305503B36.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_FFA_Wall_05.uasset'
+[2021.07.28-07.11.14:115][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_FFA_Wall_04_Brighter_021424AE994354A5BA90BF9EA60D7A8151.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_FFA_Wall_04_Brighter_02.uasset'
+[2021.07.28-07.11.14:142][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_FFA_Wall_04_BrighterC64685F942A2042F2360CDAB29D347EA.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_FFA_Wall_04_Brighter.uasset'
+[2021.07.28-07.11.14:166][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_FFA_Wall_046146A6334D47518B7F405498B890BF25.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_FFA_Wall_04.uasset'
+[2021.07.28-07.11.14:191][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_FFA_Wall_012E54AA1E4714740515A7CC9D2036AFCF.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_FFA_Wall_01.uasset'
+[2021.07.28-07.11.14:218][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_FFA_Floor_02_Dark076AC62741D5224B89C5F68328EC0EAF.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_FFA_Floor_02_Dark.uasset'
+[2021.07.28-07.11.14:242][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_FFA_Floor_024F864C1D4C244946B153CD80F8AC2BFA.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_FFA_Floor_02.uasset'
+[2021.07.28-07.11.14:259][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_Enviro_assets_01D404B503421065C33620BB965068A4A5.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_Enviro_assets_01.uasset'
+[2021.07.28-07.11.14:279][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/Windows_glass_trans_tiledE87606AE46F9AB7F5D0F7C971D04B4AC.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/Windows_glass_trans_tiled.uasset'
+[2021.07.28-07.11.14:295][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_Vista_GrassACD747A543405D8D9E3726906460E089.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_Vista_Grass.uasset'
+[2021.07.28-07.11.14:313][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_Park_27B41F5284F0ADA60E6609580FB7B08E7.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_Park_2.uasset'
+[2021.07.28-07.11.14:331][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_Park4ECD130F54F3D11C543A12B8CD9958D3E.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_Park4.uasset'
+[2021.07.28-07.11.14:347][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_Park55E10ACA4B03F5EE9B1F4B8D7BB24DA1.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_Park.uasset'
+[2021.07.28-07.11.14:365][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_GrassLVL_Wall_01_InstAC73FF11449976C8E26EF1AF4741EF5B.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_GrassLVL_Wall_01_Inst.uasset'
+[2021.07.28-07.11.14:383][316]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/M_Forest_0253E5033A46F26CE37A7D10931C54C770.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Materials/M_Forest_02.uasset'
+[2021.07.28-07.11.14:493][316]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.28-07.11.14:493][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_FFA_Wall_04_Brighter_02.M_FFA_Wall_04_Brighter_02
+[2021.07.28-07.11.14:493][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/Metal_tiled.Metal_tiled
+[2021.07.28-07.11.14:493][316]LogContentValidation: Display: Validating PhysicalMaterial /Game/Assignments/Submissions/Cantius/PhysicalMaterials/M_Metal.M_Metal
+[2021.07.28-07.11.14:493][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_Enviro_assets_01.M_Enviro_assets_01
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/Metal_tiled_hex_gray.Metal_tiled_hex_gray
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating PhysicalMaterial /Game/Assignments/Submissions/Cantius/PhysicalMaterials/M_Tile.M_Tile
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating PhysicalMaterial /Game/Assignments/Submissions/Cantius/PhysicalMaterials/M_Concrete.M_Concrete
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_FFA_Wall_05.M_FFA_Wall_05
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/Metal_tiled_gray.Metal_tiled_gray
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating PhysicalMaterial /Game/Assignments/Submissions/Cantius/PhysicalMaterials/M_BodyDamage.M_BodyDamage
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating PhysicalMaterial /Game/Assignments/Submissions/Cantius/PhysicalMaterials/M_Glass.M_Glass
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating PhysicalMaterial /Game/Assignments/Submissions/Cantius/PhysicalMaterials/M_Grass.M_Grass
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_FFA_Wall_04_Brighter.M_FFA_Wall_04_Brighter
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_FFA_Wall_04.M_FFA_Wall_04
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_FFA_Wall_01.M_FFA_Wall_01
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_FFA_Floor_02_Dark.M_FFA_Floor_02_Dark
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_FFA_Floor_02.M_FFA_Floor_02
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/Windows_glass_trans_tiled.Windows_glass_trans_tiled
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_Vista_Grass.M_Vista_Grass
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_Park_2.M_Park_2
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_Park4.M_Park4
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_Park.M_Park
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assignments/Submissions/Cantius/Materials/M_GrassLVL_Wall_01_Inst.M_GrassLVL_Wall_01_Inst
+[2021.07.28-07.11.14:494][316]LogContentValidation: Display: Validating Material /Game/Assignments/Submissions/Cantius/Materials/M_Forest_02.M_Forest_02
