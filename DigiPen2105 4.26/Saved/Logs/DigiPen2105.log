@@ -13804,3 +13804,351 @@ Make sure 'UTIL_AngleMapConversion' has been compiled for  Save Loaded Asset
 [2021.07.28-21.11.07:419][  3]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2021.07.28-21.11.07:419][  3]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
 [2021.07.28-21.11.07:419][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-21.11.15:503][  3]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.28-21.11.15:503][  3]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.07.28-21.11.15:503][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-21.11.16:942][  3]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.07.28-21.11.16:942][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-21.11.16:997][  3]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.07.28-21.11.16:997][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-21.11.17:020][  3]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.07.28-21.11.17:020][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-21.12.26:029][436]Cmd: TRANSACTION UNDO
+[2021.07.28-21.12.26:029][436]LogEditorTransaction: Undo Create Actors
+[2021.07.28-21.12.40:811][559]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2021.07.28-21.12.51:122][559]LogSlate: Window 'Save Content' being destroyed
+[2021.07.28-21.12.51:223][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.07.28-21.12.51:332][559]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/Cantius543B8EF94064CC19365B68BBA9B3BF8B.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Cantius/Cantius.umap'
+[2021.07.28-21.12.51:333][559]LogFileHelpers: Saving map 'Cantius' took 0.177
+[2021.07.28-21.12.51:353][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.07.28-21.12.51:442][559]LogSavePackage: Moving 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Saved/XurongFC1F5B1447EA23034EB997A109FB2CFB.tmp' to 'S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/Assignments/Submissions/Xurong/Xurong.umap'
+[2021.07.28-21.12.51:443][559]LogFileHelpers: Saving map 'Xurong' took 0.111
+[2021.07.28-21.12.52:246][559]LogTexture: Display: Building textures: T_IceChunks (AutoDXT, 128X128)
+[2021.07.28-21.12.52:246][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: T_HealHeart_02 (AutoDXT, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X128)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:247][559]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.07.28-21.12.52:247][559]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: T_Ice_Mesh02b (AutoDXT, 1024X1024)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: T_LeafFlip_6X6_01 (AutoDXT, 1024X1024)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: T_FrozenGroundBlasted (AutoDXT, 512X512)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: T_Dungeon_Pipe_Lava_E (AutoDXT, 1024X1024)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: T_FireBlastTile (AutoDXT, 256X256)
+[2021.07.28-21.12.52:470][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:470][559]LogPackageName: SearchForPackageOnDisk took   0.223s, but failed to resolve Env_ALL_Artifacts.
+[2021.07.28-21.12.52:470][559]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2021.07.28-21.12.52:489][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:489][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:489][559]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.07.28-21.12.52:489][559]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: T_SmokeGrad (AutoDXT, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: T_Clouds_Tile_03 (AutoDXT, 1024X1024)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: T_starFlare_03 (AutoDXT, 256X256)
+[2021.07.28-21.12.52:735][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:735][559]LogPackageName: SearchForPackageOnDisk took   0.245s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2021.07.28-21.12.52:735][559]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2021.07.28-21.12.52:755][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:755][559]LogTexture: Display: Building textures: T_Flare_Streaks_02 (AutoDXT, 512X512)
+[2021.07.28-21.12.52:956][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:956][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:956][559]LogTexture: Display: Building textures: T_IceShards_E (AutoDXT, 256X256)
+[2021.07.28-21.12.52:956][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:956][559]LogTexture: Display: Building textures: T_Spider_2_4 (AutoDXT, 1024X1024)
+[2021.07.28-21.12.52:956][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:956][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:956][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:962][559]LogStaticMesh: Building static mesh SM_ChargeMesh...
+[2021.07.28-21.12.52:964][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_ChargeMesh.SM_ChargeMesh
+[2021.07.28-21.12.52:976][559]LogTexture: Display: Building textures: HDRI_Epic_Courtyard_Daylight (RGBA16F, 1024X512)
+[2021.07.28-21.12.52:976][559]LogTexture: Display: Building textures: T_SpottyTile (AutoDXT, 512X512)
+[2021.07.28-21.12.52:976][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.52:976][559]LogStaticMesh: Building static mesh SM_SnowHeavy...
+[2021.07.28-21.12.52:985][559]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_SnowHeavy.SM_SnowHeavy
+[2021.07.28-21.12.52:988][559]LogMaterial: Display: Missing cached shader map for material M_IceChunksBase, compiling. 
+[2021.07.28-21.12.53:032][559]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2021.07.28-21.12.53:032][559]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2021.07.28-21.12.53:032][559]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.07.28-21.12.53:032][559]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.07.28-21.12.53:032][559]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.07.28-21.12.53:032][559]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.07.28-21.12.53:032][559]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.07.28-21.12.53:032][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:032][559]LogStaticMesh: Building static mesh SM_IceSkill_Chrg_Tail...
+[2021.07.28-21.12.53:053][559]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceSkill_Chrg_Tail.SM_IceSkill_Chrg_Tail
+[2021.07.28-21.12.53:057][559]LogStaticMesh: Building static mesh SM_IceWall_Med_Base...
+[2021.07.28-21.12.53:058][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceWall_Med_Base.SM_IceWall_Med_Base
+[2021.07.28-21.12.53:101][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:101][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:101][559]LogTexture: Display: Building textures: T_CombatArea_Arc (AutoDXT, 256X256)
+[2021.07.28-21.12.53:101][559]LogStaticMesh: Building static mesh SM_IceSkill_Chrg_F...
+[2021.07.28-21.12.53:137][559]LogTexture: Display: Building textures: T_Lock (AutoDXT, 256X256)
+[2021.07.28-21.12.53:137][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:137][559]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceSkill_Chrg_F.SM_IceSkill_Chrg_F
+[2021.07.28-21.12.53:143][559]LogTexture: Display: Building textures: Trail_Claws01 (AutoDXT, 256X256)
+[2021.07.28-21.12.53:215][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:215][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:215][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:226][559]LogStaticMesh: Building static mesh SM_IceSkill_Chrg_F_00...
+[2021.07.28-21.12.53:251][559]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceSkill_Chrg_F_00.SM_IceSkill_Chrg_F_00
+[2021.07.28-21.12.53:273][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:273][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:273][559]LogStaticMesh: Building static mesh SM_1Meter_01...
+[2021.07.28-21.12.53:324][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:324][559]LogStaticMesh: Built static mesh [0.05s] /Game/InfinityBladeEffects/Maps/LevelContent/Architecture/SM_1Meter_01.SM_1Meter_01
+[2021.07.28-21.12.53:396][559]LogTexture: Display: Building textures: T_IceSword_E (AutoDXT, 512X512)
+[2021.07.28-21.12.53:396][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:396][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:396][559]LogStaticMesh: Building static mesh SM_CycRoom_01...
+[2021.07.28-21.12.53:419][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:452][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:452][559]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeEffects/Maps/LevelContent/Architecture/SM_CycRoom_01.SM_CycRoom_01
+[2021.07.28-21.12.53:528][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:528][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:528][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:528][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:528][559]LogTexture: Display: Building textures: T_MeterGrid_01_M (BGRA8, 2048X2048)
+[2021.07.28-21.12.53:840][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:840][559]LogTexture: Display: Building textures: T_Vertical_Glow_Tiled (AutoDXT, 1024X1024)
+[2021.07.28-21.12.53:840][559]LogTexture: Display: Building textures: T_cracksIcey_01 (AutoDXT, 1024X1024)
+[2021.07.28-21.12.53:840][559]LogTexture: Display: Building textures: T_JaggedRockSnowy_01_N (BC5, 1024X1024)
+[2021.07.28-21.12.53:840][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.53:842][559]LogMaterial: Display: Missing cached shader map for material M_1Meter_01, compiling. 
+[2021.07.28-21.12.53:878][559]LogMaterial: Display: Missing cached shader map for material M_CycRoom_01, compiling. 
+[2021.07.28-21.12.53:907][559]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2021.07.28-21.12.53:907][559]LogMaterial: Display: Missing cached shader map for material M_Trans_Sprite_Lit_SubUV_Master, compiling. 
+[2021.07.28-21.12.54:049][559]LogTexture: Display: Building textures: T_JaggedRockSnowy_01_D (AutoDXT, 1024X1024)
+[2021.07.28-21.12.54:049][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.54:049][559]LogTexture: Display: Building textures: T_Rocks_3_3 (AutoDXT, 1024X1024)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: T_FireTrail (AutoDXT, 1024X1024)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: T_IB_Debris_Box (AutoDXT, 1024X1024)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: T_IB_Debris_Box_E (AutoDXT, 1024X1024)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: T_FrozenGroundBlasted_Fade (AutoDXT, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: T_FrozenGroundBlasted_N (BC5, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:436][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:437][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:437][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:437][559]LogTexture: Display: Building textures: T_GhostSkull (AutoDXT, 512X512)
+[2021.07.28-21.12.55:437][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:437][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:437][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:437][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:440][559]LogMaterial: Display: Missing cached shader map for material M_CycWall_01, compiling. 
+[2021.07.28-21.12.55:490][559]LogTexture: Display: Building textures: T_CandleFlame (AutoDXT, 64X128)
+[2021.07.28-21.12.55:502][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.55:502][559]LogStaticMesh: Building static mesh SM_SpinSpiral...
+[2021.07.28-21.12.55:505][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_SpinSpiral.SM_SpinSpiral
+[2021.07.28-21.12.55:507][559]LogMaterial: Display: Missing cached shader map for material M_Trans_Trail_2Sided_Pan_Base_Emis_Master, compiling. 
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: T_ChargeTrail (AutoDXT, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: T_ChargeTrail_02 (AutoDXT, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:062][559]LogTexture: Display: Building textures: T_Trail_Ice_01 (AutoDXT, 512X256)
+[2021.07.28-21.12.56:063][559]LogTexture: Display: Building textures: T_Spider_Ice_2_4 (AutoDXT, 1024X1024)
+[2021.07.28-21.12.56:063][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:063][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:063][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:063][559]LogTexture: Display: Building textures: T_GlowNoise_01 (AutoDXT, 256X256)
+[2021.07.28-21.12.56:097][559]LogTexture: Display: Building textures: T_Vertical_Glow (AutoDXT, 1024X1024)
+[2021.07.28-21.12.56:100][559]LogMaterial: Display: Missing cached shader map for material M_Add_Trail_2Sided_Pan_Master, compiling. 
+[2021.07.28-21.12.56:315][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:315][559]LogTexture: Display: Building textures: T_Sparkle_Flakes (AutoDXT, 256X256)
+[2021.07.28-21.12.56:315][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:315][559]LogTexture: Display: Building textures: T_SlashArc (AutoDXT, 1024X1024)
+[2021.07.28-21.12.56:315][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:315][559]LogTexture: Display: Building textures: T_Env_Health_Terminus_D (AutoDXT, 2048X2048)
+[2021.07.28-21.12.56:315][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:315][559]LogStaticMesh: Building static mesh SM_IceWall_TraceMagic...
+[2021.07.28-21.12.56:332][559]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceWall_TraceMagic.SM_IceWall_TraceMagic
+[2021.07.28-21.12.56:336][559]LogStaticMesh: Building static mesh SM_SlashArc...
+[2021.07.28-21.12.56:336][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_SlashArc.SM_SlashArc
+[2021.07.28-21.12.56:407][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.56:407][559]LogTexture: Display: Building textures: T_cracksFirey_01 (AutoDXT, 1024X1024)
+[2021.07.28-21.12.56:407][559]LogMaterial: Display: Missing cached shader map for material M_Fire_Sprite_01_5x5_SubUV, compiling. 
+[2021.07.28-21.12.57:721][559]LogTexture: Display: Building textures: T_JaggedRockFirey_01_D (AutoDXT, 1024X1024)
+[2021.07.28-21.12.57:721][559]LogTexture: Display: Building textures: T_Fire_Lava_2 (AutoDXT, 1024X1024)
+[2021.07.28-21.12.57:721][559]LogTexture: Display: Building textures: T_JaggedRock_D_02 (AutoDXT, 2048X2048)
+[2021.07.28-21.12.57:721][559]LogTexture: Display: Building textures: T_JaggedRockFirey_01_N (BC5, 1024X1024)
+[2021.07.28-21.12.57:721][559]LogTexture: Display: Building textures: T_FrozenGround (AutoDXT, 512X512)
+[2021.07.28-21.12.57:721][559]LogTexture: Display: Building textures: T_FrozenGround_N (BC5, 512X512)
+[2021.07.28-21.12.57:721][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.57:721][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.57:721][559]LogStaticMesh: Building static mesh SM_Debris_Box_RadialHalf...
+[2021.07.28-21.12.57:759][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.57:759][559]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeEffects/Effects/FX_Meshes/IB/SM_Debris_Box_RadialHalf.SM_Debris_Box_RadialHalf
+[2021.07.28-21.12.57:765][559]LogMaterial: Display: Missing cached shader map for material M_IB_Debris_Boxes_Opaque, compiling. 
+[2021.07.28-21.12.57:772][559]LogStaticMesh: Building static mesh SM_AuraCircle...
+[2021.07.28-21.12.57:773][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_AuraCircle.SM_AuraCircle
+[2021.07.28-21.12.57:863][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.57:863][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.57:863][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.57:863][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.57:863][559]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.07.28-21.12.57:863][559]LogTexture: Display: Building textures: T_AuraCircle_TileHoriz (AutoDXT, 1024X1024)
+[2021.07.28-21.12.59:393][559]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 274
+[2021.07.28-21.12.59:393][559]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 264
+[2021.07.28-21.12.59:397][559]LogMaterial: Display: Missing cached shader map for material M_AuraCircle, compiling. 
+[2021.07.28-21.12.59:428][559]LogStaticMesh: Building static mesh SM_DmgField_Rock_02...
+[2021.07.28-21.12.59:464][559]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/rock/SM_DmgField_Rock_02.SM_DmgField_Rock_02
+[2021.07.28-21.12.59:644][559]LogStaticMesh: Building static mesh SM_DmgField_Ice_02...
+[2021.07.28-21.12.59:684][559]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/ICE/SM_DmgField_Ice_02.SM_DmgField_Ice_02
+[2021.07.28-21.12.59:697][559]LogMaterial: Display: Missing cached shader map for material M_JaggedRockFire_MeshEmit_Lit, compiling. 
+[2021.07.28-21.12.59:764][559]LogStaticMesh: Building static mesh SM_IceShard_pPlane1...
+[2021.07.28-21.12.59:774][559]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceShard_pPlane1.SM_IceShard_pPlane1
+[2021.07.28-21.12.59:779][559]LogStaticMesh: Building static mesh SM_enemyPossesor...
+[2021.07.28-21.12.59:780][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Mobile/SM_enemyPossesor.SM_enemyPossesor
+[2021.07.28-21.12.59:782][559]LogMaterial: Display: Missing cached shader map for material M_GhostSkull, compiling. 
+[2021.07.28-21.12.59:847][559]LogStaticMesh: Building static mesh SM_FireBall...
+[2021.07.28-21.12.59:868][559]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_FireBall.SM_FireBall
+[2021.07.28-21.12.59:879][559]LogStaticMesh: Building static mesh M_Gate_Ice_Locked_01...
+[2021.07.28-21.12.59:882][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/M_Gate_Ice_Locked_01.M_Gate_Ice_Locked_01
+[2021.07.28-21.12.59:887][559]LogStaticMesh: Building static mesh SM_IcePiece01...
+[2021.07.28-21.12.59:887][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IcePiece01.SM_IcePiece01
+[2021.07.28-21.12.59:896][559]LogStaticMesh: Building static mesh SM_IceCircle01...
+[2021.07.28-21.12.59:906][559]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceCircle01.SM_IceCircle01
+[2021.07.28-21.12.59:910][559]LogStaticMesh: Building static mesh SM_IceTrap...
+[2021.07.28-21.12.59:910][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceTrap.SM_IceTrap
+[2021.07.28-21.12.59:920][559]LogStaticMesh: Building static mesh SM_MagicSpray_Fire...
+[2021.07.28-21.12.59:930][559]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_MagicSpray_Fire.SM_MagicSpray_Fire
+[2021.07.28-21.12.59:933][559]LogMaterial: Display: Missing cached shader map for material M_Fire_Trans_TilePan_2sided_meshEmit_02, compiling. 
+[2021.07.28-21.12.59:999][559]LogStaticMesh: Building static mesh SM_HealthShrine_01...
+[2021.07.28-21.13.00:051][559]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_HealthShrine_01.SM_HealthShrine_01
+[2021.07.28-21.13.00:124][559]LogStaticMesh: Building static mesh SM_UntypedSkill_Chrg_Tail...
+[2021.07.28-21.13.00:138][559]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/rock/SM_UntypedSkill_Chrg_Tail.SM_UntypedSkill_Chrg_Tail
+[2021.07.28-21.13.00:148][559]LogStaticMesh: Building static mesh SM_UntypedSkill_Chrg_F_00...
+[2021.07.28-21.13.00:151][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/rock/SM_UntypedSkill_Chrg_F_00.SM_UntypedSkill_Chrg_F_00
+[2021.07.28-21.13.00:170][559]LogStaticMesh: Building static mesh SM_IceSkill_Chrg_F_01...
+[2021.07.28-21.13.00:191][559]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceSkill_Chrg_F_01.SM_IceSkill_Chrg_F_01
+[2021.07.28-21.13.00:219][559]LogStaticMesh: Building static mesh SM_UntypedSkill_Chrg_F...
+[2021.07.28-21.13.00:258][559]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/rock/SM_UntypedSkill_Chrg_F.SM_UntypedSkill_Chrg_F
+[2021.07.28-21.13.00:270][559]LogStaticMesh: Building static mesh SM_IceBlastGround...
+[2021.07.28-21.13.00:272][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceBlastGround.SM_IceBlastGround
+[2021.07.28-21.13.00:275][559]LogMaterial: Display: Missing cached shader map for material M_IceBlastBase, compiling. 
+[2021.07.28-21.13.00:377][559]LogStaticMesh: Building static mesh SM_IceShard_01...
+[2021.07.28-21.13.00:378][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceShard_01.SM_IceShard_01
+[2021.07.28-21.13.00:381][559]LogMaterial: Display: Missing cached shader map for material M_IceSword, compiling. 
+[2021.07.28-21.13.00:408][559]LogStaticMesh: Building static mesh SM_LavaSplash_Circlular...
+[2021.07.28-21.13.00:411][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_LavaSplash_Circlular.SM_LavaSplash_Circlular
+[2021.07.28-21.13.00:427][559]LogStaticMesh: Building static mesh SM_Rune_Sphere...
+[2021.07.28-21.13.00:436][559]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Mobile/SM_Rune_Sphere.SM_Rune_Sphere
+[2021.07.28-21.13.00:457][559]LogStaticMesh: Building static mesh SM_Rune_Sphere_Detailed...
+[2021.07.28-21.13.00:483][559]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Mobile/SM_Rune_Sphere_Detailed.SM_Rune_Sphere_Detailed
+[2021.07.28-21.13.00:489][559]LogMaterial: Display: Missing cached shader map for material M_LevelRing_00, compiling. 
+[2021.07.28-21.13.00:525][559]LogStaticMesh: Building static mesh SM_MagicSpray_Ice...
+[2021.07.28-21.13.00:527][559]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Mobile/SM_MagicSpray_Ice.SM_MagicSpray_Ice
+[2021.07.28-21.13.00:531][559]LogMaterial: Display: Missing cached shader map for material M_IceBlastFog, compiling. 
+[2021.07.28-21.13.00:545][559]LogMaterial: Display: Missing cached shader map for material M_Opaque_MeshEmit_Emis_Master, compiling. 
+[2021.07.28-21.13.00:550][559]LogMaterial: Display: Missing cached shader map for material M_IceBlastIcicles, compiling. 
+[2021.07.28-21.13.00:562][559]LogMaterial: Display: Missing cached shader map for material M_Dungeon_Pipe_FlowingLava_Cool, compiling. 
+[2021.07.28-21.13.00:579][559]LogMaterial: Display: Missing cached shader map for material M_Add_Trail_2Sided_Pan_Master, compiling. 
+[2021.07.28-21.13.00:603][559]LogMaterial: Display: Missing cached shader map for material M_IceShard, compiling. 
+[2021.07.28-21.13.01:274][559]LogMaterial: Display: Missing cached shader map for material M_IceBlastIcicles_Fade, compiling. 
+[2021.07.28-21.13.01:394][559]LogMaterial: Display: Missing cached shader map for material M_JaggedRockIce_MeshEmit_Blue, compiling. 
+[2021.07.28-21.13.01:451][559]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 768
+[2021.07.28-21.13.01:451][559]LogMaterial: Display: Missing cached shader map for material M_Env_Health_Terminus, compiling. 
+[2021.07.28-21.13.01:481][559]LogMaterial: Display: Missing cached shader map for material M_IB_Debris_Boxes_Trans, compiling. 
+[2021.07.28-21.13.01:507][559]LogActorComponent: RegisterComponentWithWorld: (/Game/InfinityBladeEffects/Maps/Overview.Overview:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.07.28-21.13.01:605][559]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InfinityBladeEffects/Maps/Overview.Overview
+[2021.07.28-21.13.01:605][559]Cmd: MAP LOAD FILE="S:/Development/NoMoreDebt/DigiPen2105 4.26/Content/InfinityBladeEffects/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.28-21.13.01:605][559]LightingResults: New page: Lighting Build
+[2021.07.28-21.13.01:698][559]LoadErrors: New page: Loading map: Overview.umap
+[2021.07.28-21.13.01:809][559]LogWorld: UWorld::CleanupWorld for PersistentLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.28-21.13.01:810][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-21.13.01:810][559]LogWorld: UWorld::CleanupWorld for Jean, bSessionEnded=true, bCleanupResources=true
+[2021.07.28-21.13.01:810][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-21.13.01:811][559]LogWorld: UWorld::CleanupWorld for Xurong, bSessionEnded=true, bCleanupResources=true
+[2021.07.28-21.13.01:811][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-21.13.01:811][559]LogWorld: UWorld::CleanupWorld for Cantius, bSessionEnded=true, bCleanupResources=true
+[2021.07.28-21.13.01:811][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-21.13.01:871][559]MapCheck: New page: Map Check
+[2021.07.28-21.13.01:871][559]LightingResults: New page: Lighting Build
+[2021.07.28-21.13.01:908][559]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.28-21.13.02:086][559]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2021.07.28-21.13.02:247][559]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2021.07.28-21.13.02:273][559]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.28-21.13.02:273][559]LogAIModule: Creating AISystem for world Overview
+[2021.07.28-21.13.02:324][559]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.07.28-21.13.02:332][559]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.28-21.13.02:333][559]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.221ms to complete.
+[2021.07.28-21.13.02:333][559]LogFileHelpers: Loading map 'Overview' took 0.728
+[2021.07.28-21.13.02:439][559]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.28-21.13.02:439][559]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/Cantius/Cantius.Cantius
+[2021.07.28-21.13.02:496][559]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 831
+[2021.07.28-21.13.02:536][559]LogContentValidation: Display: Validating World /Game/Assignments/Submissions/Xurong/Xurong.Xurong
+[2021.07.28-21.13.02:627][559]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 821
+[2021.07.28-21.13.02:722][559]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 811
+[2021.07.28-21.13.02:794][559]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2021.07.28-21.13.03:447][563]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 801
+[2021.07.28-21.13.03:516][565]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 791
+[2021.07.28-21.13.03:541][565]LogMaterial: Display: Material /Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Dungeon_Pipe_FlowingLava_Cool.M_Dungeon_Pipe_FlowingLava_Cool needed to have new flag set bUsedWithMeshParticles !
+[2021.07.28-21.13.03:566][565]LogMaterial: Display: Missing cached shader map for material M_Dungeon_Pipe_FlowingLava_Cool, compiling. 
+[2021.07.28-21.13.04:146][573]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 789
+[2021.07.28-21.13.05:039][612]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 779
+[2021.07.28-21.13.07:550][735]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 769
+[2021.07.28-21.13.08:766][794]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 759
+[2021.07.28-21.13.09:443][827]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 749
+[2021.07.28-21.13.09:975][844]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 739
+[2021.07.28-21.13.10:567][865]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 729
+[2021.07.28-21.13.11:355][895]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 719
+[2021.07.28-21.13.11:766][910]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 709
+[2021.07.28-21.13.12:432][934]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 699
+[2021.07.28-21.13.13:485][966]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 689
